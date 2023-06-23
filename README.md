@@ -30,9 +30,9 @@ All the course materials, including lecture slides, code examples, and additiona
 
 To get started with the course materials, clone this repository to your local machine using the following command:
 
-...
-  git clone https://github.com/A-EL-YAAGOUBI/Introduction-AI
-...
+```
+git clone https://github.com/A-EL-YAAGOUBI/Introduction-AI
+```
 
 Once you have the repository cloned, you can explore the materials at your own pace and refer to them as you progress through the course.
 
