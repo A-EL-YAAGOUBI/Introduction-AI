@@ -48,5 +48,3 @@ Feel free to explore each folder to access the relevant materials for each day.
 If you have any questions or need assistance, please don't hesitate to reach out to the Teaching Assistants or me directly during our daily sessions.
 
 We hope you have an engaging and enriching week diving into the world of artificial intelligence and building a solid foundation in Python programming!
-
-Happy learning!

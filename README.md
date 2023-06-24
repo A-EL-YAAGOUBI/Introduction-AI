@@ -40,7 +40,5 @@ Once you have the repository cloned, you can explore the materials at your own p
 
 We hope you find this repository valuable in your journey to learn AI. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us.
 
-Happy learning!
-
 Anass B. El-Yaagoubi
 King Abdullah University of Science and Technology
