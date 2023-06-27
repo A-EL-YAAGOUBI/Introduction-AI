@@ -16,7 +16,6 @@ Welcome to Day 2 of Week 2! Today, we will dive into the powerful Pandas library
 
 ## Additional Resources
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
 Feel free to explore additional resources for more in-depth information.
