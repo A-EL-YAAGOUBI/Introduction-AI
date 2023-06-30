@@ -46,9 +46,9 @@ Feel free to explore each folder to access the relevant materials for each day. 
 - Hands-on exercises on advanced data visualization with Matplotlib
 
 ## Additional Resources
-- [NumPy Documentation](https://numpy.org/doc/): Official documentation for NumPy
-- [Pandas Documentation](https://pandas.pydata.org/docs/): Official documentation for Pandas
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html): Official documentation for Matplotlib
+- [NumPy](https://numpy.org/doc/): Official documentation for NumPy
+- [Pandas](https://pandas.pydata.org/docs/): Official documentation for Pandas
+- [Matplotlib](https://matplotlib.org/stable/contents.html): Official documentation for Matplotlib
 
 ## Getting Help
 If you have any questions or need assistance, please don't hesitate to reach out to the Teaching Assistants or the course instructor during our daily sessions. We are here to support you on your learning journey.
