@@ -1,6 +1,8 @@
 # Week 3: Regression and Classification
 
-Welcome to Week 3 of our program! This week focuses on a comprehensive exploration of regression and classification concepts, introducing you to machine learning principles and specific algorithms.
+Welcome to Week 3 of our program! In the previous week, we focused on data manipulation and visualization using Python libraries like NumPy, Pandas, and Matplotlib. This week, our focus shifts towards regression and classification, where we will delve into machine learning principles and algorithms. Starting with foundational models like linear regression and logistic regression, we will explore regression analysis and binary classification. We will then move on to clustering techniques using k-means and hierarchical clustering, followed by classification algorithms such as k-Nearest Neighbors (k-NN), Support Vector Machines (SVM), decision trees, and random forests. Through hands-on exercises, you will gain practical experience in building and evaluating regression and classification models, empowering you to tackle real-world problems using machine learning techniques. Get ready for an exciting and enriching week as we unlock the power of regression and classification in the realm of artificial intelligence!
+
+We hope you're ready for an exciting and enriching week as we dive into the fascinating world of machine learning!
 
 ## Schedule
 
