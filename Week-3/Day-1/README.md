@@ -14,7 +14,6 @@ Welcome to Day 1 of Week 3! Today, we will dive into the world of regression ana
 
 ## Additional Resources
 - [An Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf): This book provides a comprehensive introduction to statistical learning methods with a focus on practical. The Python version of the book will be available soon during the coming weeks.
-
 - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf): This book covers advanced topics in statistical learning and provides a deeper understanding of regression and other machine learning techniques.
 
 ## Getting Help

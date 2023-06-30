@@ -33,9 +33,9 @@ We hope you're ready for an exciting and enriching week as we dive into the fasc
 - Hands-on session implementing and evaluating SVMs and RF in Python.
 
 ## Additional Resources
-- [Towards Data Science](https://towardsdatascience.com/): Learn more about topics in the field of data science and AI
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/): Unleash the power of AI algorithms
 - [Kaggle](https://www.kaggle.com/): Push your limits with AI competitions
+- [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf): Learn more about advanced topics in the field of data science and AI
 
 ## Getting Help
 If you have any questions or need assistance during the week, don't hesitate to reach out to the Teaching Assistants. We're here to support you and help you succeed in your learning journey!
