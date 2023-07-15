@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 # Hiding folders for Weeks 2, 3 and 4
-Week-3/*
 Week-4/*
